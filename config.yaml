@@ -1,9 +1,8 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "/"
-title: Cassandra Pearson
+title: Cass Pearson
 copyright: "© Cassandra Pearson"
-paginate: 5
 theme: [hugo-PaperMod]
 
 enableInlineShortcodes: true
@@ -85,10 +84,10 @@ params:
   socialIcons:
     - name: github
       title: All of my projects!
-      url: "https://github.com/cassiepearson"
+      url: "https://github.com/pearsonify"
     - name: linkedin
       title: Connect with me on LinkedIn!
-      url: "https://www.linkedin.com/in/cassie-pearson"
+      url: "https://www.linkedin.com/in/cass-pearson"
     - name: stackoverflow
       title: Find me on stack overflow!
       url: "https://stackoverflow.com/users/12011679/cassie"
@@ -162,6 +161,4 @@ markup:
 
 services:
   instagram:
-    disableInlineCSS: true
-  twitter:
     disableInlineCSS: true

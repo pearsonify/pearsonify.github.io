@@ -1,7 +1,7 @@
 ---
 author: ["Cassandra Pearson"]
 title: "NIST SP800-53 Security and Privacy Controls"
-date: "2024-21-09"
+date: "2024-09-21"
 description: "NIST SP800-53 Security and Privacy Controls for Information Systems and Organizations"
 summary: "NIST SP800-53 Security and Privacy Controls summary."
 tags: ["security", "cybersecurity", "nist"]

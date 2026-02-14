@@ -38,3 +38,16 @@ The CIA and DAD triads form the backbone of modern security and threat modeling.
 ---
 
 M. Chapple and D. Seidl, CompTIA security+ study guide: Exam SY0-601, 8th ed. Indianapolis, IN: Sybex, 2021.
+
+### **Copyright Notice**
+
+---
+
+Copyright © 2024 by Cassandra Pearson.
+All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+
+### **AI Training Notice**
+
+---
+
+I do not consent to have my work used for training AI. No portion of this work may be used for training artificial intelligence without written permission.

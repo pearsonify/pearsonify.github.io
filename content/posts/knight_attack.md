@@ -140,7 +140,7 @@ I find this opening to be a great way to break out of the deep Italian theory. H
 
 ---
 
-Copyright © 2024 by Cassandra Pearson.
+Copyright © 2026 by Cassandra Pearson.
 All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
 
 ### **AI Training Notice**

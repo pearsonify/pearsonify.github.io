@@ -1,7 +1,7 @@
 ---
 author: ["Cassandra Pearson"]
 title: "Knight Attack"
-date: "2026-19-02"
+date: "2026-02-10"
 description: "Overview of the knight attack opening."
 summary: "Overview of the knight attack opening."
 tags: ["chess"]

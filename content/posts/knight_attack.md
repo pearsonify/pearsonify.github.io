@@ -105,7 +105,7 @@ Finally, this line allows white to take and hold the initiative. White forces an
 11. Ne4  Qe6
 ```
 
-![knight_attack_h4](/images/knightattack_h4 "Knight attack h4 line")
+![knight_attack_h4](/images/knightattack_h4.gif "Knight attack h4 line")
 
 The other popular line is 9. f3 which leads to a more positionally driven game. Shown below, white retreats from their initial attack and focuses on developing their position and preventing a counterattack from black.
 
